@@ -1,0 +1,15 @@
+{
+    "name": "sillytavern-reproductive-system-english",
+    "display_name": "Reproductive System",
+    "description": "English-only SillyTavern reproductive system extension with cycle tracking, conception rolls, pregnancy monitoring, complications, and birth tags.",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Delidgi, English translation by Aaliyah + ChatGPT",
+    "version": "1.7.6-en.2",
+    "homePage": "https://github.com/Cheeseycereal/sillytavern-reproductive-system-english",
+    "source": "https://github.com/Cheeseycereal/sillytavern-reproductive-system-english",
+    "auto_update": true
+}
